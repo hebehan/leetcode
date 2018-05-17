@@ -8,7 +8,7 @@ import java.util.Map;
  * @author Hebe Han
  * @date 2018/5/17 15:32
  */
-public class 两数之和_1_TwoSum {
+public class _001_两数之和_TwoSum {
     public static void main(String[] args) {
         int ex[] = {1,2,3,4,5,6,7,8,9,10};
         twoSum(ex,17);

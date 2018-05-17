@@ -5,7 +5,7 @@ package easy;
  * @author Hebe Han
  * @date 2018/5/17 18:28
  */
-public class 回文数_9_Palindrome {
+public class _009_回文数_Palindrome {
     public static void main(String[] args) {
         System.out.println(mysolution(11));
     }

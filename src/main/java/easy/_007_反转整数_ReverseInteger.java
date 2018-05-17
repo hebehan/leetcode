@@ -9,7 +9,7 @@ import java.util.*;
  * @author Hebe Han
  * @date 2018/5/17 15:35
  */
-public class 反转整数_7_ReverseInteger {
+public class _007_反转整数_ReverseInteger {
 
     public static void main(String[] args) {
         System.out.println(Integer.MAX_VALUE);
