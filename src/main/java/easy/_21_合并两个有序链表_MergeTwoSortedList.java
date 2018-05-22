@@ -1,7 +1,5 @@
 package easy;
 
-import java.util.LinkedList;
-
 public class _21_合并两个有序链表_MergeTwoSortedList {
 
 
